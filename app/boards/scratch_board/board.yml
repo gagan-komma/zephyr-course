@@ -1,0 +1,6 @@
+board:
+  name: scratch_board
+  full_name: Scratch Board
+  vendor: nordic
+  socs:
+  - name: nrf52840
